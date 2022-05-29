@@ -1,0 +1,75 @@
+{
+"visits_offers_contracts": [
+	{
+		"month" : "jan",
+		"visits" : 7130,
+		"tenant_that_visited" : 4678,
+		"visited_houses" : 4140,
+		"offers" : 3924,
+		"tenants_that_made_offers" : 2977,
+		"contracts" : 724
+	},
+	{
+		"month" : "fev",
+		"visits" : 7132,
+		"tenant_that_visited" : 5193,
+		"visited_houses" : 4322,
+		"offers" : 3658,
+		"tenants_that_made_offers" : 2461,
+		"contracts" : 689
+	},
+	{
+		"month" : "mar",
+		"visits" : 6933,
+		"tenant_that_visited" : 5322,
+		"visited_houses" : 4299,
+		"offers" : 3791,
+		"tenants_that_made_offers" : 2526,
+		"contracts" : 667
+	},
+	{
+		"month" : "abr",
+		"visits" : 7342,
+		"tenant_that_visited" : 5844,
+		"visited_houses" : 3150,
+		"offers" : 2453,
+		"tenants_that_made_offers" : 1699,
+		"contracts" : 603
+	},
+	{
+		"month" : "mai",
+		"visits" : 7238,
+		"tenant_that_visited" : 6112,
+		"visited_houses" : 4006,
+		"offers" : 3587,
+		"tenants_that_made_offers" : 2645,
+		"contracts" : 544
+	},
+	{
+		"month" : "jun",
+		"visits" : 8377,
+		"tenant_that_visited" : 6710,
+		"visited_houses" : 3250,
+		"offers" : 3011,
+		"tenants_that_made_offers" : 1583,
+		"contracts" : 542
+	},
+	{
+		"month" : "jul",
+		"visits" : 8130,
+		"tenant_that_visited" : 7122,
+		"visited_houses" : 3993,
+		"offers" : 3500,
+		"tenants_that_made_offers" : 1801,
+		"contracts" : 443
+	},
+	{
+		"month" : "ago",
+		"visits" : 8288,
+		"tenant_that_visited" : 7630,
+		"visited_houses" : 4155,
+		"offers" : 3431,
+		"tenants_that_made_offers" : 1857,
+		"contracts" : 376
+	}
+]}
