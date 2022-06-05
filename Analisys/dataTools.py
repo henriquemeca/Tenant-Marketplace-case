@@ -50,13 +50,3 @@ def plots(data):
         - Emergency | Evaluation
         - Department | Deployment
     """
-    
-    # for (columnName, columnData) in data.iteritems():
-    #     graph = data[columnName].plot
-
-        
-# class dataExplorer: 
-#     def __init__(self,data) -> None:
-#         if not isinstance(data, pd.DataFrame):
-#             raise ValueError('Insert a pandas DataFrame')
-#         self.data=data
