@@ -1,0 +1,78 @@
+{
+"visits_contracts": [
+	{
+		"visits" : 1,
+		"tenants_that_did_not_sign" : 5091,
+		"tenants_that_signed" : 148
+	},
+	{
+		"visits" : 2,
+		"tenants_that_did_not_sign" : 2199,
+		"tenants_that_signed" : 124
+	},
+	{
+		"visits" : 3,
+		"tenants_that_did_not_sign" : 1176,
+		"tenants_that_signed" : 108
+	},
+	{
+		"visits" : 4,
+		"tenants_that_did_not_sign" : 510,
+		"tenants_that_signed" : 64
+	},
+	{
+		"visits" : 5,
+		"tenants_that_did_not_sign" : 396,
+		"tenants_that_signed" : 84
+	},
+	{
+		"visits" : 6,
+		"tenants_that_did_not_sign" : 384,
+		"tenants_that_signed" : 64
+	},
+	{
+		"visits" : 7,
+		"tenants_that_did_not_sign" : 261,
+		"tenants_that_signed" : 32
+	},
+	{
+		"visits" : 8,
+		"tenants_that_did_not_sign" : 216,
+		"tenants_that_signed" : 20
+	},
+	{
+		"visits" : 9,
+		"tenants_that_did_not_sign" : 210,
+		"tenants_that_signed" : 12
+	},
+	{
+		"visits" : 10,
+		"tenants_that_did_not_sign" : 132,
+		"tenants_that_signed" : 4
+	},
+	{
+		"visits" : 11,
+		"tenants_that_did_not_sign" : 39,
+		"tenants_that_signed" : 4
+	},
+	{
+		"visits" : 12,
+		"tenants_that_did_not_sign" : 90,
+		"tenants_that_signed" : 4
+	},
+	{
+		"visits" : 13,
+		"tenants_that_did_not_sign" : 33,
+		"tenants_that_signed" : 0
+	},
+	{
+		"visits" : 14,
+		"tenants_that_did_not_sign" : 18,
+		"tenants_that_signed" : 0
+	},
+	{
+		"visits" : 15,
+		"tenants_that_did_not_sign" : 93,
+		"tenants_that_signed" : 0
+	}
+]}
